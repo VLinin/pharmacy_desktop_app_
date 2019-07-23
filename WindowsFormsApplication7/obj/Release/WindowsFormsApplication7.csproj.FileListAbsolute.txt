@@ -1,0 +1,15 @@
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Admin.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Log.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.FormZap.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.PassCh.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Pokupatel.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.regorder.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.users.resources
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\VL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
